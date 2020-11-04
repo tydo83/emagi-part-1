@@ -589,5 +589,4 @@ const emojis = [
     },
  ]
 
-
-module.exports = emojis;
+ module.exports = emojis;
